@@ -1,0 +1,19 @@
+.choose-info {
+  display: flex;
+}
+.choose-index {
+  font-size: 6em;
+  color: #00d747;
+  font-weight: 400;
+}
+.info {
+  margin-top: 2em;
+}
+.info-head {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+.info-txt {
+  width: 80%;
+  font-size: 0.8em;
+}
